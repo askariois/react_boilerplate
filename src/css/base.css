@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Inter";
+  src: url("../assets/fonts/Inter-Regular.woff2") format("woff2"),
+    url("../assets/fonts/Inter-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../assets/fonts/Inter-Bold.woff2") format("woff2"),
+    url("../assets/fonts/Inter-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("../assets/fonts/Onest-Black.woff2") format("woff2"),
+    url("../assets/fonts/Onest-Black.woff") format("woff");
+  font-weight: black;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("../assets/fonts/Onest-Bold.woff2") format("woff2"),
+    url("../assets/fonts/Onest-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("../assets/fonts/Onest-Light.woff2") format("woff2"),
+    url("../assets/fonts/Onest-Light.woff") format("woff");
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("../assets/fonts/Onest-Medium.woff2") format("woff2"),
+    url("../assets/fonts/Onest-Medium.woff") format("woff");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("../assets/fonts/Onest-Regular.woff2") format("woff2"),
+    url("../assets/fonts/Onest-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("../assets/fonts/proximanova_regular.woff2") format("woff2"),
+    url("../assets/fonts/proximanova_regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("../assets/fonts/proximanova_bold.woff2") format("woff2"),
+    url("../assets/fonts/proximanova_bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ProximaSoft";
+  src: url("../assets/fonts/ProximaSoft-Bold.woff2") format("woff2"),
+    url("../assets/fonts/ProximaSoft-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFUIDisplay";
+  src: url("../assets/fonts/sf-ui-display-semibold.woff2") format("woff2"),
+    url("../assets/fonts/sf-ui-display-semibold.woff") format("woff");
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
